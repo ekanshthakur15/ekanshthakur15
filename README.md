@@ -9,7 +9,7 @@
 ## 👩🏼‍🤝‍🧑🏻 Socials
 
 <h1>
-</a> <a href="https://www.linkedin.com/in/vedant-kakde/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> <a href="https://www.linkedin.com/in/ekanshthakur/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </h1>
 
